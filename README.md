@@ -40,7 +40,7 @@ The project is inspired by the Grammys’ Glambot that helps celebrities take th
 
 Instead of using another external camera, the robot would use the user’s phone. The phone would be placed in a tripod fixture that would rotate based on the position with most light exposure - this ensures no backlight photographs. 
 
-The robot would also help direct the user on where they should stand depending on their photo modes; selfie, half-body, and full-body. The robot would alert the user by lighting up different led lights, where each led represents a specific photo mode. 
+The robot would also help direct the user on where they should stand depending on their photo modes; selfie, half-body, and full-body. The robot would alert the user by lighting up different led lights, where each led represents a specific photo mode. It would signal the user on where to stand using led lights, where each light represent the different photo modes. 
 
 
 #### Entry one - Planning
