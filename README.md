@@ -1,4 +1,4 @@
-# physical-computing
+# Physical Computing
 BSc Creative Computing Semester 2
 
 Assignment Description: Document outcomes for the set project including an original work of art using physical computing and fabrication techniques. This will also include a research weblog documenting iterative design and development process specifically in the areas of physical computing.
